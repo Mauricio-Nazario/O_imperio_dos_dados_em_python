@@ -1,0 +1,1 @@
+gere uma capa para um ebook com base no título fornecido, "O Império dos Dados em Python" a temática do ebook é sobre python e análise de dados, a capa de conter um tema nerd e que chame a atenção do leitor e que apresente diversão e criatividade, os textos da capa não devem ser em inglês.
